@@ -28,7 +28,7 @@ int main(){
 
 	list.deleteFrontNode();
 
-	list.deleteLastNode();
+	list.deleteLastNode();ls -l
 
 	list.printList();
 
